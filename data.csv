@@ -1,0 +1,101 @@
+Title,Rating,Duration,Genre,Director
+The Shawshank Redemption,9.3,142 min,Drama,Frank Darabont
+The Godfather,9.2,175 min,"Crime, Drama",Francis Ford Coppola
+The Dark Knight,9.0,152 min,"Action, Crime, Drama",Christopher Nolan
+The Godfather: Part II,9.0,202 min,"Crime, Drama",Francis Ford Coppola
+The Lord of the Rings: The Return of the King,8.9,201 min,"Action, Adventure, Drama",Peter Jackson
+Pulp Fiction,8.9,154 min,"Crime, Drama",Quentin Tarantino
+Schindler's List,8.9,195 min,"Biography, Drama, History",Steven Spielberg
+12 Angry Men,8.9,96 min,Drama,Sidney Lumet
+Fight Club,8.8,139 min,Drama,David Fincher
+The Lord of the Rings: The Fellowship of the Ring,8.8,178 min,"Adventure, Drama, Fantasy",Peter Jackson
+Forrest Gump,8.8,142 min,"Drama, Romance",Robert Zemeckis
+The Lord of the Rings: The Two Towers,8.7,179 min,"Adventure, Drama, Fantasy",Peter Jackson
+Goodfellas,8.7,146 min,"Crime, Drama",Martin Scorsese
+One Flew Over the Cuckoo's Nest,8.7,133 min,Drama,Milos Forman
+Shichinin no samurai,8.7,207 min,"Adventure, Drama",Akira Kurosawa
+Interstellar,8.6,169 min,"Adventure, Drama, Sci-Fi",Christopher Nolan
+Cidade de Deus,8.6,130 min,"Crime, Drama",Fernando Meirelles
+Saving Private Ryan,8.6,169 min,"Drama, War",Steven Spielberg
+La vita e bella,8.6,116 min,"Comedy, Drama, Romance",Roberto Benigni
+Se7en,8.6,127 min,"Crime, Drama, Mystery",David Fincher
+Leon,8.6,110 min,"Crime, Drama, Thriller",Luc Besson
+The Silence of the Lambs,8.6,118 min,"Crime, Drama, Thriller",Jonathan Demme
+It's a Wonderful Life,8.6,130 min,"Drama, Family, Fantasy",Frank Capra
+Dangal,8.5,161 min,"Action, Biography, Drama",Nitesh Tiwari
+Whiplash,8.5,106 min,"Drama, Music",Damien Chazelle
+The Intouchables,8.5,112 min,"Biography, Comedy, Drama",Olivier Nakache
+The Prestige,8.5,130 min,"Drama, Mystery, Sci-Fi",Christopher Nolan
+The Departed,8.5,151 min,"Crime, Drama, Thriller",Martin Scorsese
+The Pianist,8.5,150 min,"Biography, Drama, Music",Roman Polanski
+Gladiator,8.5,155 min,"Action, Adventure, Drama",Ridley Scott
+The Green Mile,8.5,189 min,"Crime, Drama, Fantasy",Frank Darabont
+American History X,8.5,119 min,Drama,Tony Kaye
+The Lion King,8.5,88 min,"Animation, Adventure, Drama",Roger Allers
+Nuovo Cinema Paradiso,8.5,155 min,Drama,Giuseppe Tornatore
+Hotaru no haka,8.5,89 min,"Animation, Drama, War",Isao Takahata
+Apocalypse Now,8.5,147 min,"Drama, War",Francis Ford Coppola
+Casablanca,8.5,102 min,"Drama, Romance, War",Michael Curtiz
+The Great Dictator,8.5,125 min,"Comedy, Drama, War",Charles Chaplin
+Modern Times,8.5,87 min,"Comedy, Drama, Family",Charles Chaplin
+City Lights,8.5,87 min,"Comedy, Drama, Romance",Charles Chaplin
+Kimi no na wa.,8.4,106 min,"Animation, Drama, Fantasy",Makoto Shinkai
+Django Unchained,8.4,165 min,"Drama, Western",Quentin Tarantino
+3 Idiots,8.4,170 min,"Comedy, Drama",Rajkumar Hirani
+Taare Zameen Par,8.4,165 min,"Drama, Family",Aamir Khan
+Babam ve Oglum,8.4,108 min,"Drama, Family",cagan Irmak
+The Lives of Others,8.4,137 min,"Drama, Thriller",Florian Henckel von Donnersmarck
+Oldeuboi,8.4,101 min,"Action, Drama, Mystery",Chan-wook Park
+American Beauty,8.4,122 min,Drama,Sam Mendes
+Braveheart,8.4,178 min,"Biography, Drama, History",Mel Gibson
+Once Upon a Time in America,8.4,229 min,"Crime, Drama",Sergio Leone
+Das Boot,8.4,149 min,"Adventure, Drama, Thriller",Wolfgang Petersen
+The Shining,8.4,146 min,"Drama, Horror",Stanley Kubrick
+Witness for the Prosecution,8.4,116 min,"Crime, Drama, Mystery",Billy Wilder
+Paths of Glory,8.4,88 min,"Drama, War",Stanley Kubrick
+Sunset Blvd.,8.4,110 min,"Drama, Film-Noir",Billy Wilder
+Citizen Kane,8.4,119 min,"Drama, Mystery",Orson Welles
+Drishyam,8.3,163 min,"Crime, Drama, Thriller",Nishikant Kamat
+Jagten,8.3,115 min,Drama,Thomas Vinterberg
+Jodaeiye Nader az Simin,8.3,123 min,Drama,Asghar Farhadi
+Bohemian Rhapsody,8.3,134 min,"Biography, Drama, Music",Bryan Singer
+Inglourious Basterds,8.3,153 min,"Adventure, Drama, War",Quentin Tarantino
+Eternal Sunshine of the Spotless Mind,8.3,108 min,"Drama, Romance, Sci-Fi",Michel Gondry
+Requiem for a Dream,8.3,102 min,Drama,Darren Aronofsky
+L.A. Confidential,8.3,138 min,"Crime, Drama, Mystery",Curtis Hanson
+Good Will Hunting,8.3,126 min,"Drama, Romance",Gus Van Sant
+Bacheha-Ye aseman,8.3,89 min,"Drama, Family",Majid Majidi
+Eskiya,8.3,128 min,"Crime, Drama, Thriller",Yavuz Turgul
+Reservoir Dogs,8.3,99 min,"Crime, Drama, Thriller",Quentin Tarantino
+Full Metal Jacket,8.3,116 min,"Drama, War",Stanley Kubrick
+Amadeus,8.3,160 min,"Biography, Drama, History",Milos Forman
+Scarface,8.3,170 min,"Crime, Drama",Brian De Palma
+Taxi Driver,8.3,114 min,"Crime, Drama",Martin Scorsese
+The Sting,8.3,129 min,"Comedy, Crime, Drama",George Roy Hill
+A Clockwork Orange,8.3,136 min,"Crime, Drama, Sci-Fi",Stanley Kubrick
+To Kill a Mockingbird,8.3,129 min,"Crime, Drama",Robert Mulligan
+Lawrence of Arabia,8.3,216 min,"Adventure, Biography, Drama",David Lean
+Yojinbo,8.3,110 min,"Action, Drama, Thriller",Akira Kurosawa
+The Apartment,8.3,125 min,"Comedy, Drama, Romance",Billy Wilder
+Ikiru,8.3,143 min,Drama,Akira Kurosawa
+Rashomon,8.3,88 min,"Crime, Drama, Mystery",Akira Kurosawa
+All About Eve,8.3,138 min,Drama,Joseph L. Mankiewicz
+Ladri di biciclette,8.3,89 min,Drama,Vittorio De Sica
+Double Indemnity,8.3,107 min,"Crime, Drama, Film-Noir",Billy Wilder
+Metropolis,8.3,153 min,"Drama, Sci-Fi",Fritz Lang
+The Kid,8.3,68 min,"Comedy, Drama, Family",Charles Chaplin
+Roma,8.2,135 min,Drama,Alfonso Cuaron
+"Three Billboards Outside Ebbing, Missouri",8.2,115 min,"Comedy, Crime, Drama",Martin McDonagh
+Room,8.2,118 min,"Drama, Thriller",Lenny Abrahamson
+Mandariinid,8.2,87 min,"Drama, War",Zaza Urushadze
+Kis Uykusu,8.2,196 min,Drama,Nuri Bilge Ceylan
+Inside Out,8.2,95 min,"Animation, Adventure, Comedy",Pete Docter
+El secreto de sus ojos,8.2,129 min,"Drama, Mystery, Romance",Juan Jose Campanella
+Warrior,8.2,140 min,"Drama, Sport",Gavin O'Connor
+Incendies,8.2,131 min,"Drama, Mystery, War",Denis Villeneuve
+The Wolf of Wall Street,8.2,180 min,"Biography, Comedy, Crime",Martin Scorsese
+There Will Be Blood,8.2,158 min,Drama,Paul Thomas Anderson
+Pan's Labyrinth,8.2,118 min,"Drama, Fantasy, War",Guillermo del Toro
+V for Vendetta,8.2,132 min,"Action, Drama, Sci-Fi",James McTeigue
+Rang De Basanti,8.2,157 min,"Comedy, Drama",Rakeysh Omprakash Mehra
+Der Untergang,8.2,156 min,"Biography, Drama, History",Oliver Hirschbiegel
